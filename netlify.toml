@@ -1,6 +1,6 @@
 [[redirects]]
 from = "/*"
-to = "/index.html"
+to = "/calc1.html"
 status = 200
 
 
